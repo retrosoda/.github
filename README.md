@@ -1,1 +1,2 @@
-# .github
+# retrosoda
+## we make retro stuff.
