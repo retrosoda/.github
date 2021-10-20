@@ -10,6 +10,7 @@
 #### - visual studio (https://visualstudio.microsoft.com)
 #### - jetbrains rider (https://www.jetbrains.com/rider)
 #### - visual studio code (https://code.visualstudio.com)
+#### - nercos compiling gui (https://github.com/necros0/ne_q1CompilingGui)
 ### - languages used/using:
 #### - rust (https://www.rust-lang.org)
 #### - C# (https://docs.microsoft.com/en-us/dotnet/csharp)
